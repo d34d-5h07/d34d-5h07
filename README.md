@@ -1,4 +1,4 @@
-## Hey there , I'm Aashish
+### Hey there , I'm Aashish
 <div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 </div>
 </br>
@@ -21,7 +21,7 @@
   <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/1fgjrj955afaorj9axy8cm0mp?si=uYBeDjE_RUWWQBLkUGvjuw&dl_branch=1">
   <img align="left" alt="Aashish's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
