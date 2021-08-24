@@ -4,8 +4,6 @@
 
 
 </div>
-</br>
-</br> 
 
 > I'm a Web developer , Cyber Security Enthusiast from India
 
