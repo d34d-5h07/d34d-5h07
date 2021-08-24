@@ -1,5 +1,8 @@
 ### Hey there , I'm Aashish
-<div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img align="center" alt="banner" width="1000px" src="https://user-images.githubusercontent.com/58104187/130577585-8d042f1c-7fe2-4038-8065-dcf1bcd5331f.png" />
+
+
+
 </div>
 </br>
 </br> 
@@ -25,7 +28,9 @@
 #### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a>  
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a>
+<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/58104187/130577755-fac9debc-98c0-49b9-a528-d5b4dfd88be1.png" />
+
 <br />
 
 
