@@ -1,7 +1,5 @@
 ### Hey there , I'm Aashish
-<img align="center" alt="banner" width="900px" src="https://user-images.githubusercontent.com/58104187/130577585-8d042f1c-7fe2-4038-8065-dcf1bcd5331f.png" />
-
-
+<div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 </div>
 
