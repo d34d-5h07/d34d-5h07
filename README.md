@@ -42,10 +42,6 @@
   <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/1fgjrj955afaorj9axy8cm0mp?si=uYBeDjE_RUWWQBLkUGvjuw&dl_branch=1">
-  <img align="left" alt="Aashish's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <a href="https://twitter.com/d34d__5h07">
   <img align="left" alt="Aashish | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
