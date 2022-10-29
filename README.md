@@ -39,13 +39,18 @@
  -->
  
 #### [Contact Me :](https://www.deadshot.gq) <a href="https://discordapp.com/users/861203929941803038">
-  <img align="left" alt="Aashish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/1fgjrj955afaorj9axy8cm0mp?si=43a86b7e9a654909&nd=1">
+  <img align="left" alt="Spotify" width="22px" src="https://user-images.githubusercontent.com/58104187/198833667-f002e2ff-56d4-4575-a60d-e3cd07174e82.svg" />
 </a>
 
 <a href="https://twitter.com/d34d__5h07">
-  <img align="left" alt="Aashish | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 </br>
 </br>
 <img href="https://www.deadshot.gq" hight="30" width="500" alt="contact" align="left" src="https://user-images.githubusercontent.com/58104187/125207985-664d5480-e27f-11eb-9044-ecda092b2402.jpg"></br>
+
 
