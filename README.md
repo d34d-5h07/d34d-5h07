@@ -8,10 +8,10 @@
 > I'm a Web developer , Cyber Security Enthusiast from India
 
 #### Learning :
-- Web developing
-- Web Pentesting
-- Cyber security
-- Machine language 
+- [x] Web/App developing
+- [ ] Web Pentesting
+- [ ] Cyber security
+- [ ] Machine Language
 
 #### Languages and Tools :
 
@@ -34,11 +34,11 @@
 <br />
 
 
-#### Hobbies :
+<!-- #### Hobbies :
 - [x] Video Games 🎮
 - [ ] Binge Watching Shows 📺
 - [ ] Music 🎧
- 
+  -->
 #### [Contact Me :](https://www.deadshot.gq) <a href="https://discordapp.com/users/861203929941803038">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
