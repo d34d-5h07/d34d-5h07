@@ -53,5 +53,5 @@
 </br>
 <div>
 <img href="https://www.deadshot.gq" hight="30" width="500" alt="contact" align="left" src="https://user-images.githubusercontent.com/58104187/125207985-664d5480-e27f-11eb-9044-ecda092b2402.jpg"></br>
-<img href="https://www.deadshot.gq" hight="30" width="250" alt="spotify" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=default&show_offline=false"></br>
+<img href="https://www.deadshot.gq" hight="30" width="250" alt="spotify" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=compact&show_offline=false"></br>
 </div>
