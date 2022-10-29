@@ -10,7 +10,7 @@
 #### Learning :
 - [x] Web/App developing
 - [ ] Web Pentesting
-- [ ] Cyber security
+- [x] Cyber security
 - [ ] Machine Language
 
 #### Languages and Tools :
