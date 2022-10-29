@@ -33,9 +33,9 @@
 
 
 <!-- ##### Hobbies :
-- Gaming Addict
-- Watching Anime
-- Listening to music
+- Video Games
+- Binge watching shows
+- Music
  -->
  
 #### [Contact Me :](https://www.deadshot.gq) <a href="https://discordapp.com/users/861203929941803038">
