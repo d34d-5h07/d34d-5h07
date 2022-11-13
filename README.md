@@ -62,7 +62,6 @@
 <img width="475" src="https://github-readme-stats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en" alt="d34d-5h07" />
 </p>
 
----
 
 <!-- <p float="left">
  <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Rick%20Sanchez&quote=To%20live%20is%20to%20risk%20it%20all%3B%20otherwise%20you%E2%80%99re%20just%20an%20inert%20chunk%20of%20randomly%20assembled%20molecules%20drifting%20wherever%20the%20universe%20blows%20you"/>
