@@ -39,7 +39,8 @@
 - [ ] Binge Watching Shows 📺
 - [ ] Music 🎧
   -->
-#### [Contact Me :](https://www.deadshot.gq) <a href="https://discordapp.com/users/861203929941803038">
+#### [Contact Me :](https://www.deadshot.gq)
+<a href="https://discordapp.com/users/861203929941803038">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
