@@ -41,7 +41,7 @@
   -->
 #### [Contact Me :](https://www.deadshot.gq)
 <a href="https://discordapp.com/users/861203929941803038">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/58104187/206185989-9d49aa3a-b6af-48e3-983a-1d97819fa276.svg" />
 </a>
 
 
@@ -54,8 +54,6 @@
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><br><br>
 <img href="https://www.deadshot.gq" width="400" alt="contact" src="https://user-images.githubusercontent.com/58104187/125207985-664d5480-e27f-11eb-9044-ecda092b2402.jpg">
-
----
 
 <p float="left">
 <img href="https://www.deadshot.gq" width="175" alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=compact&show_offline=false">
