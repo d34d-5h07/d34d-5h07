@@ -55,8 +55,8 @@
 
 <p float="left">
 <img href="https://www.deadshot.gq" width="175" alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=compact&show_offline=false">
-<img width="302" src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&layout=compact" alt="d34d-5h07" />
-<img width="360" src="https://github-readme-stats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en" alt="d34d-5h07" />
+<img width="302" src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="d34d-5h07" />
+<img width="360" src="https://github-readme-stats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true" alt="d34d-5h07" />
 </p>
 
 ![snake](https://github.com/d34d-5h07/d34d-5h07/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
