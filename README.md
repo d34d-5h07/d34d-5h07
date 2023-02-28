@@ -1,6 +1,5 @@
 ### Hey there , I'm Aashish
-<div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"></div>
-
+<div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/d34d-5h07/d34d-5h07/blob/main/src/1936%20(1).gif"></div>
 <br>
 
 > I'm a Web developer , Cyber Security Enthusiast from India
@@ -77,5 +76,7 @@
 <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Bojack%20Horseman&quote=That%20voice%2C%20the%20one%20that%20tells%20you%20you%27re%20worthless%20and%20stupid%20and%20ugly...%20It%20goes%20away%2C%20right%3F"/>
 <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=MrRobot&quote=When%20you%20see%20a%20good%20move%2C%20look%20for%20a%20better%20one"/>
 </p>
- -->
+
+
+
 
