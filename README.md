@@ -37,7 +37,7 @@
 - [ ] Binge Watching Shows 📺
 - [ ] Music 🎧
   -->
-#### [Contact Me :](https://www.deadshot.gq)
+#### Please Hesistate To Reach Out To Me :
 <a href="https://discordapp.com/users/861203929941803038">
   <img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/58104187/206185989-9d49aa3a-b6af-48e3-983a-1d97819fa276.svg" />
 </a>
@@ -51,7 +51,9 @@
 <a href="https://twitter.com/d34d__5h07">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><br><br>
-<img href="https://www.deadshot.gq" width="400" alt="contact" src="https://user-images.githubusercontent.com/58104187/125207985-664d5480-e27f-11eb-9044-ecda092b2402.jpg">
+
+
+  <img width="400" src="https://user-images.githubusercontent.com/58104187/221767071-754f35f2-0b12-492c-9bdf-30a557d4978d.png"></div>
 
 <p float="left">
 <img href="https://www.deadshot.gq" width="175" alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=compact&show_offline=false">
@@ -61,12 +63,19 @@
 
 ![snake](https://github.com/d34d-5h07/d34d-5h07/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<!-- ```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
+```
+ -->
 <!-- <p float="left">
  <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Rick%20Sanchez&quote=To%20live%20is%20to%20risk%20it%20all%3B%20otherwise%20you%E2%80%99re%20just%20an%20inert%20chunk%20of%20randomly%20assembled%20molecules%20drifting%20wherever%20the%20universe%20blows%20you"/>
 <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Bojack%20Horseman&quote=That%20voice%2C%20the%20one%20that%20tells%20you%20you%27re%20worthless%20and%20stupid%20and%20ugly...%20It%20goes%20away%2C%20right%3F"/>
 <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=MrRobot&quote=When%20you%20see%20a%20good%20move%2C%20look%20for%20a%20better%20one"/>
 </p>
  -->
-
-
 
