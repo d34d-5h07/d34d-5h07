@@ -1,9 +1,9 @@
 ### Hey there , I'm Aashish
-<div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/d34d-5h07/d34d-5h07/blob/main/src/1936%20(1).gif"></div>
-<br>
+<!-- <div align="center"><img hight="400" width="700" alt="GIF" align="center" src="https://github.com/d34d-5h07/d34d-5h07/blob/main/src/1936%20(1).gif"></div>
+<br> -->
 
-> I'm a Full Stack developer , Cyber Security Enthusiast from India
-
+> I'm a Full Stack developer / Cyber Security Enthusiast from India <br>
+> I build things, I break things and I build things that break things
 #### Learning :
 - [x] Web/App developing
 - [x] Web Pentesting
