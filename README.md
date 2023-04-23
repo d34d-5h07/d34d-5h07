@@ -5,9 +5,10 @@
 > I'm a Full Stack developer / Cyber Security Enthusiast from India <br>
 > I build things, I break things and I build things that break things
 #### Learning :
-- [x] Web/App developing
+- [x] Web/App Developing
 - [x] Web Pentesting
-- [x] Cyber security
+- [x] BackEnd Developing
+- [x] Cyber Security
 - [ ] Machine Language
 
 #### Languages and Tools :
