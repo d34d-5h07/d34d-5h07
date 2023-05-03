@@ -9,7 +9,7 @@
 - [x] Web Pentesting
 - [x] BackEnd Developing
 - [x] Cyber Security
-- [ ] Machine Language
+- [ ] Machine Learning
 
 #### Languages and Tools :
 
