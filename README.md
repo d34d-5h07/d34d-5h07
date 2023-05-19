@@ -9,7 +9,7 @@
 - [x] Cyber Security
 - [ ] Machine Learning
 -->
-#### I build things, I break things and I build things that break things :
+##### I build things, I break things and I build things that break things :
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px"
                                                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
@@ -42,7 +42,7 @@
 - [ ] Binge Watching Shows 📺
 - [ ] Music 🎧
   -->
-#### Please Hesistate To Reach Out To Me :
+##### Please Hesistate To Reach Out To Me :
 <a href="https://discordapp.com/users/861203929941803038">
     <img align="left" alt="Discord" width="22px"
          src="https://user-images.githubusercontent.com/58104187/206185989-9d49aa3a-b6af-48e3-983a-1d97819fa276.svg"/>
