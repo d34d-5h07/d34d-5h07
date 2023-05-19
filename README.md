@@ -19,7 +19,6 @@
 <img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt="sql" width="26px" src="https://user-images.githubusercontent.com/58104187/227933839-0f2d0df4-c063-4aa1-b7c9-a1663b94dce7.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.linux.org/" target="_blank">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/> </a>
