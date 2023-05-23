@@ -35,7 +35,7 @@
 <img align="left" alt="Terminal" width="26px"
      src="https://user-images.githubusercontent.com/58104187/130577755-fac9debc-98c0-49b9-a528-d5b4dfd88be1.png"/>
 <br/>
-
+<br>
 
 <!-- #### Hobbies :
 - [x] Video Games 🎮
