@@ -62,7 +62,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <!--   <img width="400" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0cab08ac-68c3-479a-a32d-5bf8b415cd62"></div> -->
 
 <p float="left">
-    <img href="https://www.deadshot.gq" width="330" alt="spotify"
+    <img href="https://www.deadshot.gq" width=400" alt="spotify"
          src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false">
 <!--     <img width="302"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"
