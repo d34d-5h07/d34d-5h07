@@ -36,7 +36,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <a href="https://www.linux.org/" target="_blank">
 <br/>
-<br>
 
 
 <!-- #### Hobbies :
@@ -60,18 +59,15 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
 
 <!--   <img width="400" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0cab08ac-68c3-479a-a32d-5bf8b415cd62"></div> -->
-
-<p float="left">
-    <img href="https://www.deadshot.gq" width=350" alt="spotify"
-         src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false">
+<p><img href="https://www.deadshot.gq" width=330" alt="spotify"
+     src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false"></p>
 <!--     <img width="302"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"
-         alt="d34d-5h07"/> -->
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"
+       alt="d34d-5h07"/> -->
 <!--     <img width="360"
-         src="https://github-readme-stats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
-         alt="d34d-5h07"/> -->
-</p>
-
+       src="https://github-readme-stats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
+       alt="d34d-5h07"/> -->
+       
 ![snake](https://github.com/d34d-5h07/d34d-5h07/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- ```diff
