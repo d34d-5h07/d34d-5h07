@@ -49,7 +49,8 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 </a>
 <a href="https://twitter.com/d34d__5h07">
     <img align="left" alt="Twitter" width="22px"
-         src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+         src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7" />
+
 </a><br><br>
 
 
