@@ -3,7 +3,7 @@
 > I build things, I break things and I build things that break things
 #### Learning :
 - [x] Web/App Developing and Pentesting
-- [x] Cyber Security
+- [x] Cyber 
 -->
 ##### I build things, I break things and I build things that break things :
 
