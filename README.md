@@ -1,10 +1,3 @@
-
-<!-- > I'm a Full Stack developer / Cyber Security Enthusiast from India <br>
-> I build things, I break things and I build things that break things
-#### Learning :
-- [x] Web/App Developing and Pentesting
-- [x] Cyber 
--->
 ##### I build things, I break things and I build things that break things :
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px"
