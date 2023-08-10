@@ -29,7 +29,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <!-- #### Hobbies :
 - [x] Video Games 🎮
 - [ ] Binge Watching Shows 📺
-- [ ] Music 🎧
+- [ ] Music 
   -->
 ##### Please Hesistate To Reach Out To Me :
 <a href="https://discordapp.com/users/861203929941803038">
