@@ -28,7 +28,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
 <!-- #### Hobbies :
 - [x] Video Games 🎮
-- [ ] Binge Watching Shows 📺
+- [ ] Bing Watching Shows 📺
 - [ ] Music 
   -->
 ##### Please Hesistate To Reach Out To Me :
