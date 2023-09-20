@@ -36,7 +36,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 - [ ] Music 
   -->
 ##### Please Hesistate To Reach Out To Me :
-<a href="https://discordapp.com/users/861203929941803038">
+<a href="https://discordapp.com/users/434916213064466444">
     <img align="left" alt="Discord" width="22px"
          src="https://user-images.githubusercontent.com/58104187/206185989-9d49aa3a-b6af-48e3-983a-1d97819fa276.svg"/>
 </a>
