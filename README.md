@@ -28,8 +28,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
     <img align="left" alt="Bash" width="26px"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
 <br/>
-
-
 <!-- #### Hobbies :
 - [x] Video Games 🎮
 - [ ] Bing Watching Shows 📺
