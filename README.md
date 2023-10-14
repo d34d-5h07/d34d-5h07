@@ -46,7 +46,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
     <img align="left" alt="Twitter" width="22px"
          src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7" />
 
-</a><br><br>
+</a><br>
 
 
 <!--   <img width="400" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0cab08ac-68c3-479a-a32d-5bf8b415cd62"></div> -->
