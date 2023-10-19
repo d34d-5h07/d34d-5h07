@@ -32,7 +32,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 - [x] Video Games 🎮
 - [ ] Bing Watching Shows 📺
 - [ ] Music 
-  -->
+ -->
 ##### Please Hesistate To Reach Out To Me :
 <a href="https://discordapp.com/users/434916213064466444">
     <img align="left" alt="Discord" width="22px"
