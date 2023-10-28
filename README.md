@@ -30,7 +30,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <br/>
 <!-- #### Hobbies :
 - [x] Video Games 🎮
-- [ ] Bing Watching S
+- [ ] Bing Watching
  -->
 ##### Please Hesistate To Reach Out To Me :
 <a href="https://discordapp.com/users/434916213064466444">
