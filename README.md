@@ -51,11 +51,9 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <p><img href="https://www.deadshot.gq" width=330" alt="spotify"
      src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false"></p>
 <!--     <img width="302"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"
-       alt="d34d-5h07"/> -->
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"alt="d34d-5h07"/> -->
 <!--     <img width="360"
-       src="https://github-readmestats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"
-       alt="d34d-5h07"/> -->
+       src="https://github-readmestats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="d34d-5h07"/> -->
       
 <!-- ```diff
 + Green
