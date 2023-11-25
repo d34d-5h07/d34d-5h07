@@ -12,8 +12,9 @@ src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/5b118e31-a202-442f-b
 
 <img align="left" alt="sql" width="26px"
      src="https://user-images.githubusercontent.com/58104187/227933839-0f2d0df4-c063-4aa1-b7c9-a1663b94dce7.png"/>
-
 <img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img align="left" alt="Java" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/f3ba9508-88f8-421d-8aa8-f518bdfc4b81"/>
+<img align="left" alt="C++" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/ee80e41e-a77e-4a0e-b2e7-0bf70be17f95"/>
 
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" width="26px"
                                                         src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
