@@ -65,10 +65,10 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 ...
 ```
  -->
-<!-- <p float="left">
- <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Rick%20Sanchez&quote=To%20live%20is%20to%20risk%20it%20all%3B%20otherwise%20you%E2%80%99re%20just%20an%20inert%20chunk%20of%20randomly%20assembled%20molecules%20drifting%20wherever%20the%20universe%20blows%20you"/>
-<img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Bojack%20Horseman&quote=That%20voice%2C%20the%20one%20that%20tells%20you%20you%27re%20worthless%20and%20stupid%20and%20ugly...%20It%20goes%20away%2C%20right%3F"/>
-<img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=MrRobot&quote=When%20you%20see%20a%20good%20move%2C%20look%20for%20a%20better%20one"/>
-</p>
+<p float="left">
+<!--  <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Rick%20Sanchez&quote=To%20live%20is%20to%20risk%20it%20all%3B%20otherwise%20you%E2%80%99re%20just%20an%20inert%20chunk%20of%20randomly%20assembled%20molecules%20drifting%20wherever%20the%20universe%20blows%20you"/> -->
+<!-- <img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=Bojack%20Horseman&quote=That%20voice%2C%20the%20one%20that%20tells%20you%20you%27re%20worthless%20and%20stupid%20and%20ugly...%20It%20goes%20away%2C%20right%3F"/>
+<img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=MrRobot&quote=When%20you%20see%20a%20good%20move%2C%20look%20for%20a%20better%20one"/> -->
+<!-- </p> -->
 
 
