@@ -6,6 +6,8 @@
                                                               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
                                                               <img align="left" alt="Django" width="26px"
 src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/5b118e31-a202-442f-babf-be23d726489f"/>
+        <img align="left" alt="Fastapi" width="26px"
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/6d729acc-8a43-41c3-9710-d3ad52c171bd"/>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px"
                                                        src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>
 </a>
