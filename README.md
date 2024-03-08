@@ -54,17 +54,6 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <p><img href="https://www.deadshot.gq" width=330" alt="spotify"
      src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false"></p>
 
-<!--START_SECTION:waka-->
-
-```txt
-Python           13 hrs 31 mins  ███████████████████████▓░   94.79 %
-SQL              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-CSV/TSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
-<!--END_SECTION:waka-->
 
 <!--<img width="302"src="https://github-readme-stats.vercel.app/api/top-langs?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true"alt="d34d-5h07"/> -->
 <!--<img width="360" src="https://github-readmestats.vercel.app/api?username=d34d-5h07&show_icons=true&locale=en&theme=radical&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="d34d-5h07"/> -->
