@@ -15,3 +15,15 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true 
+          SECTION_NAME: waka 
+          BLOCKS: -> 
+          CODE_LANG: rust 
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 3
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          # you can populate email-id with secretes instead
