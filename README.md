@@ -44,9 +44,9 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
     <img align="left" alt="Spotify" width="22px"
          src="https://user-images.githubusercontent.com/58104187/198833667-f002e2ff-56d4-4575-a60d-e3cd07174e82.svg"/>
 </a>
-<a href="https://twitter.com/d34d__5h07">
+<!-- <a href="https://twitter.com/d34d__5h07">
     <img align="left" alt="Twitter" width="22px"
-         src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7" />
+         src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7" /> -->
 
 </a><br>
 
