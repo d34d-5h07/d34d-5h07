@@ -52,8 +52,9 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
 <!--   jajshs<img width="400" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0cab08ac-68c3-479a-a32d-5bf8b415cd62"></div> -->
 
+
 <a href="https://d34d-5h07.github.io/resume.pdf">
-  <img src="https://media.giphy.com/media/XBKgBeVjgDCJ87k4LY/giphy.gif" width="250" height="250">
+  <img src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/7e190493-9ee7-4866-8891-974bee7fc571", height="180">
 </a>
 <!--<p><img href="https://www.deadshot.gq" width=330" alt="spotify"
      src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false"></p> -->
