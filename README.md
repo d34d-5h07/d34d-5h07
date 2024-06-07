@@ -9,16 +9,18 @@
 <img align="left" alt="Django" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/5b118e31-a202-442f-babf-be23d726489f"/>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
+<img align="left" alt="Bash" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0126e244-0455-47a0-b597-95fd414bb5c3"/>
 
 <br/>
 <br/>
+
 <img align="left" alt="Docker" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/8d89c0f3-700c-4d50-8a97-3ecfa1866670"/>
 <img align="left" alt="Grafana" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/ed748621-2c76-4962-b736-5b3b60e9f0f5"/>
 <img align="left" alt="Prometheus" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/df29f7e7-76bc-4d8b-b036-f053b2b8865a"/>
 <img align="left" alt="Figma" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/dd7fb568-f13f-492e-bfa5-153ffb5b2182"/>
 <img align="left" alt="Postman" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/eca250df-c06b-45e6-b57d-c215d6129c33"/>
-<a href="git" target="_blank"><img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
 <br/>
 
 ##### Please Hesitate To Reach Out To Me :
