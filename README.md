@@ -15,16 +15,25 @@ src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/6d729acc-8a43-41c3-9
 <img align="left" alt="sql" width="26px"
      src="https://user-images.githubusercontent.com/58104187/227933839-0f2d0df4-c063-4aa1-b7c9-a1663b94dce7.png"/>
 <img align="left" alt="flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-<img align="left" alt="Java" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0bd3aeab-637c-411f-83c1-b8155929295c"/>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
 <img align="left" alt="C++" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/ee80e41e-a77e-4a0e-b2e7-0bf70be17f95"/>
 
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino" width="26px"
                                                         src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
                                                         alt="arduino"/> </a>
-                                                        <img align="left" alt="Postman" width="26px"
-src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/eca250df-c06b-45e6-b57d-c215d6129c33"/>
+                                                       
+<br />
+<br />
+                                                        <img align="left" alt="Docker" width="26px"
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/8d89c0f3-700c-4d50-8a97-3ecfa1866670"/>
+                                                        <img align="left" alt="Grafana" width="26px"
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/ed748621-2c76-4962-b736-5b3b60e9f0f5"/>
+                                                        <img align="left" alt="Prometheus" width="26px"
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/df29f7e7-76bc-4d8b-b036-f053b2b8865a"/>
                                                         <img align="left" alt="Figma" width="26px"
 src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/dd7fb568-f13f-492e-bfa5-153ffb5b2182"/>
+                                                        <img align="left" alt="Postman" width="26px"
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/eca250df-c06b-45e6-b57d-c215d6129c33"/>
 
 <a href="git" target="_blank"> <img align="left" alt="git" width="26px"
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
