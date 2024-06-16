@@ -9,7 +9,6 @@
 <img align="left" alt="Django" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/5b118e31-a202-442f-babf-be23d726489f"/>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
-<img align="left" alt="Bash" width="30px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/0126e244-0455-47a0-b597-95fd414bb5c3"/>
 
 <br/>
 <br/>
