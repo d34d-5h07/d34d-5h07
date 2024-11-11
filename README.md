@@ -27,6 +27,8 @@
 <a href="https://open.spotify.com/user/1fgjrj955afaorj9axy8cm0mp?si=43a86b7e9a654909&nd=1"><img align="left" alt="Spotify" width="22px" src="https://user-images.githubusercontent.com/58104187/198833667-f002e2ff-56d4-4575-a60d-e3cd07174e82.svg"/></a>
 <!-- <a href="https://twitter.com/d34d__5h07"><img align="left" alt="Twitter" width="22px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7"/></a><br> -->
 <br/>
+
+
 <br/>
 <a href="https://d34d-5h07.github.io/resume.pdf"><img src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/7e190493-9ee7-4866-8891-974bee7fc571" height="180"/></a>
 <!--<p><img href="https://www.deadshot.gq" width=330" alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1fgjrj955afaorj9axy8cm0mp&cover_image=true&theme=natemoo-re&show_offline=false"></p> -->
