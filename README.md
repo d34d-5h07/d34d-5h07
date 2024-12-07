@@ -9,7 +9,6 @@
 <img align="left" alt="Django" width="26px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/5b118e31-a202-442f-babf-be23d726489f"/>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
-
 <br/>
 <br/>
 
@@ -25,7 +24,11 @@
 ##### Please Hesitate To Reach Out To Me :
 <a href="https://discordapp.com/users/434916213064466444"><img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/58104187/206185989-9d49aa3a-b6af-48e3-983a-1d97819fa276.svg"/></a>
 <a href="https://open.spotify.com/user/1fgjrj955afaorj9axy8cm0mp?si=43a86b7e9a654909&nd=1"><img align="left" alt="Spotify" width="22px" src="https://user-images.githubusercontent.com/58104187/198833667-f002e2ff-56d4-4575-a60d-e3cd07174e82.svg"/></a>
-<!-- <a href="https://twitter.com/d34d__5h07"><img align="left" alt="Twitter" width="22px" src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7"/></a><br> -->
+<!-- <a href="https://twitter.com/d34d__5h07"><img align="left" alt="Twitter" width="22px" 
+
+
+
+src="https://github.com/d34d-5h07/d34d-5h07/assets/58104187/02021b91-8f23-4f8f-8512-511c60aa22a7"/></a><br> -->
 <br/>
 
 
